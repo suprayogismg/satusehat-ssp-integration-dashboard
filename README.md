@@ -37,7 +37,7 @@ Monitoring dashboard and automation system for SATUSEHAT SSP resource delivery, 
 - Cron Job
 - SATUSEHAT API
 - FHIR R4
-- 
+  
 ## Deployment
 ## Disclaimer
 
